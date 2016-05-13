@@ -1,5 +1,4 @@
 # Scripts for the T8X
-=====================
 
 For links to the programming tutorials for the T8X spider robot, visit:
 
